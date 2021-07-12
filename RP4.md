@@ -1,5 +1,5 @@
 
-# Proyecto 4
+# Proyecto 4, Juan David Caicedo B71365
 
 Se desea modular y demoludar una imagen usando una transmisión 
 16-QAM
