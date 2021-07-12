@@ -1,2 +1,4 @@
 # Proyecto4
-dekkae
+Para transmitir una imagen en formato 16QAM, hay que modificar las funciones tanto de modulación como de demodulación, primero se separa la señal de la portadora en 2, una en función del seno y otra coseno, multiplicando por sus respectivas magnitudes dependiendo del valor del bit en cada posición (-3,-1,1-3) en una variable matriz llamada señal TX, que se fue llenando mediante un for del tamaño y posición de los bits de la imagen, luego al demoludar se utilizan 2 funciones, una en seno y otra en coseno, para poder comparar las energías y así asociar un valor de esta energía con un bit (0,1) y poder reconstruir la imagen transmitida.
+Para la ergodicidad se comparo el promedio (mean) de los datos y en el tiempo, y se determino el % de error al comparar estos valores y se determino que son estacionarios.
+Para la última parte se graficó la densidad espectral de potencial para la señal TX.
