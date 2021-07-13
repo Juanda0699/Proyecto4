@@ -19,6 +19,6 @@ Al comparar se obtuvo que la diferencia entre los promedios es de 0.00465897%, p
 
 Parte 3: Densidad Espectral de Potencia
 
-Al graficar la densidad espectral de potencia para la señal Tx, se observa que la mayor concentración es en el rango de 2000 a 4000 Hz, después es casi nula la magnitud por lo que se puede considerar despeciable.
+Al graficar la densidad espectral de potencia para la señal Tx, se observa que la mayor concentración es en el rango de 2000 a 4000 Hz, después es casi nula la magnitud por lo que se puede considerar despreciable.
 
   
